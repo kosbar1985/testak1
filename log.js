@@ -1,0 +1,10 @@
+document.querySelectorAll('span')[0].innerHTML = data_mod.length;
+console.log(data_mod.length);
+document.querySelectorAll('span')[1].innerHTML = count_pos;
+console.log(count_pos);
+document.querySelectorAll('span')[2].innerHTML = count_neg;
+console.log(count_neg);
+document.querySelectorAll('span')[3].innerHTML = count_zero;
+console.log(count_zero);
+document.querySelectorAll('span')[4].innerHTML = count_null;
+console.log(count_null);
