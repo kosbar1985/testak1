@@ -1,3 +1,5 @@
+console.log({data});
+console.log({data_mod});
 document.querySelectorAll('.total-count > span')[0].innerHTML = data_mod.length;
 console.log(data_mod.length);
 document.querySelectorAll('.more-count > span')[0].innerHTML = count_pos;
